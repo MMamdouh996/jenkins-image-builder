@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: mohamedmamdouhiv/jenkins-image:v1.0.1
+          tags: mohamedmamdouhiv/jenkins-image:v1.0.2
